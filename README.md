@@ -1,1 +1,3 @@
-# primus
+# Primus
+
+Exploring GitHub Actions
