@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/DanielAlticeLabs/primus/issues"
   },
-  "homepage": "https://github.com/DanielAlticeLabs/primus#readme"
+  "homepage": "https://github.com/DanielAlticeLabs/primus#readme",
+  "devDependencies": {
+    "jest": "^27.4.2"
+  }
 }
