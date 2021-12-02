@@ -3,5 +3,5 @@ test('Should Pass', () => {
 });
 
 test('Should (Not) Fail', () => {
-    expect(false).toBe(false);
+    expect(true).toBe(false);
 });
